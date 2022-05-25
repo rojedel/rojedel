@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**rojedel/rojedel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Edgardo Rojas**, 
 
-Here are some ideas to get you started:
+I am a Mechanical Engineer who loves to dig into the data to find answers to my endless curiosity and I'm making the transition to becoming a full time data analyst. I've completed the **Google Data Analytics Course**, worked with tools such as **R** and **Python** to get a handle on big data, **SQL** to create and modify databases and **Tableau** to make crisp visualizations to help drive the point home, some of which, are available to look at in my portfolio!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on multiple exciting data projects, where developing an ETL is one of them!
+- 🌱 I’m currently learning and getting better with multiple python libraries.
+
+- 📫 How to reach me: 
+edgardo.rojas402@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/edgardo-rojas-60284b1b5/?locale=en_US)
+
+## My portfolio!
+[Click here to take a quick look at the work I'm doing!](link).
+
+
