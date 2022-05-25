@@ -9,9 +9,9 @@ I am a Mechanical Engineer who loves to dig into the data to find answers to my 
 
 - 📫 How to reach me: 
 edgardo.rojas402@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/edgardo-rojas-60284b1b5/?locale=en_US)
+- [LinkedIn](https://www.linkedin.com/in/edgardo-rojas-60284b1b5/?locale=en_US) **WIP**
 
 ## My portfolio!
-[Click here to take a quick look at the work I'm doing!](link).
+[Click here to take a quick look at the work I'm doing!](https://github.com/rojedel/eds_portfolio)
 
 
